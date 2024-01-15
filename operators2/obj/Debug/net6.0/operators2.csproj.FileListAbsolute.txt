@@ -12,3 +12,4 @@ C:\Users\ahmad\Desktop\Repo\operators2\operators2\obj\Debug\net6.0\refint\operat
 C:\Users\ahmad\Desktop\Repo\operators2\operators2\obj\Debug\net6.0\operators2.pdb
 C:\Users\ahmad\Desktop\Repo\operators2\operators2\obj\Debug\net6.0\operators2.genruntimeconfig.cache
 C:\Users\ahmad\Desktop\Repo\operators2\operators2\obj\Debug\net6.0\ref\operators2.dll
+C:\Users\ahmad\Desktop\Repo\operators2\operators2\obj\Debug\net6.0\operators2.sourcelink.json
